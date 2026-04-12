@@ -49,6 +49,3 @@ fun GreetingPreview() {
         Greeting("Rebecca")
     }
 }
-fun main() {
-    println("Hello World")
-}
